@@ -6,7 +6,7 @@ resolver = "2"
 version = "0.1.0"
 edition = "2021"
 license = "MIT"
-repository = "https://github.com/Schellbach/party-mix-rust"
+repository = "https://github.com/Schellbach/partymixrust"
 authors = ["Party Mix Contributors"]
 
 [workspace.dependencies]
