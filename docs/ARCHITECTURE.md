@@ -48,7 +48,7 @@ Shielded CSV liquidity pool / mixer built on [Shielded CSV](https://eprint.iacr.
 ```
 partymixrust/
 ├── Cargo.toml                 # workspace
-├── party_mix/
+├── partymixrust/
 │   ├── src/
 │   │   ├── lib.rs
 │   │   ├── mixer_node.rs      # Node + reorg + accept_payment

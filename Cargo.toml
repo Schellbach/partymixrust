@@ -1,5 +1,5 @@
 [workspace]
-members = ["party_mix"]
+members = ["partymixrust"]
 resolver = "2"
 
 [workspace.package]

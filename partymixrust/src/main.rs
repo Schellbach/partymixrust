@@ -2,12 +2,12 @@
 
 use std::sync::Arc;
 
-use party_mix::api::{serve, ApiState, AppState};
-use party_mix::crypto::MockPcd;
-use party_mix::mixer_node::MixerNode;
-use party_mix::pool::PoolManager;
-use party_mix::types::MixerConfig;
-use party_mix::wallet_state::WalletState;
+use partymixrust::api::{serve, ApiState, AppState};
+use partymixrust::crypto::MockPcd;
+use partymixrust::mixer_node::MixerNode;
+use partymixrust::pool::PoolManager;
+use partymixrust::types::MixerConfig;
+use partymixrust::wallet_state::WalletState;
 use tokio::sync::RwLock;
 use tracing_subscriber::EnvFilter;
 

@@ -21,7 +21,7 @@ Built on [Shielded CSV: Private and Efficient Client-Side Validation](https://ep
 cd partymixrust
 cargo build
 cargo test
-cargo run --bin party-mix   # HTTP API on 127.0.0.1:8787
+cargo run --bin partymixrust   # HTTP API on 127.0.0.1:8787
 ```
 
 ## Documentation
